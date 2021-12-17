@@ -1,4 +1,4 @@
 ### Hi, Tintedfireglass here 👋
 
-This is just another random programmer on the internet ;)
+Just another random programmer on the internet ;)
 
